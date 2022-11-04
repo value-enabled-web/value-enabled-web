@@ -1,3 +1,3 @@
-# VERS - Value-Enabled Reading on Steroids
+# VAT - Value-Added Text
 
 ![](reader-datastructure.jpg)
