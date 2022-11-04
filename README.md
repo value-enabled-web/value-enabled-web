@@ -13,4 +13,27 @@ Imagine an app like [Pocket](https://getpocket.com/) or [Instapaper](https://www
 
 ![](claps.png)
 
+## Reader Data-Structure
+
+The reader app will create a **local copy of the content**, e.g. from a source URL.
+
+```
+Input URL: https://dergigi.com/2022/10/02/bitcoin-is-digital-scarcity/
+```
+
+From this input URL, the following file structure will be generated:
+
+- `content.md` - clean markdown file with just the text (no ads, no other bs)
+- `payment.nfo` - one or multiple lightning addresses
+
+The reader app will store additional metadata on usage:
+
+- `position.dat` - reading position
+- `highlights/*` - highlights made by the user
+- `comments/*` - comments made by the user
+
+This metadata should be stored in open formats and should be shareable (if the user wants to make this data public, that is).
+
+---
+
 ![](reader-datastructure.jpg)
