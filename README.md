@@ -1,4 +1,15 @@
-# VAT - Value-Added Text
+# VEW - Value-Enabled Web
+
+There is a revolution happening in cyberspace, which is two parts technological breakthrough and one part digital economics.
+
+Different content types are consumed differently. We differentiate between:
+
+- Text
+- Audio
+- Video
+
+
+## Text (Blog Posts)
 
 The idea of this system is incredibly simple: let users pay for the content they consume, _voluntarily_. 
 
@@ -37,3 +48,13 @@ This metadata should be stored in open formats and should be shareable (if the u
 ---
 
 ![](reader-datastructure.jpg)
+
+
+## Audio (Podcasts, Music)
+
+See [Podcasting 2.0](https://podcastindex.org/podcast/value4value) and [Value4Value.info](https://value4value.info/).
+
+
+## Video
+
+TBD
