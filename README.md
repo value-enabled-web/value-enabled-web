@@ -45,8 +45,6 @@ The reader app will store additional metadata on usage:
 
 This metadata should be stored in open formats and should be shareable (if the user wants to make this data public, that is).
 
----
-
 ![](monocle-concept.webp)
 
 
