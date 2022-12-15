@@ -47,7 +47,7 @@ This metadata should be stored in open formats and should be shareable (if the u
 
 ---
 
-![](reader-datastructure.jpg)
+![](monocle-concept.webp)
 
 
 ## Audio (Podcasts, Music)
