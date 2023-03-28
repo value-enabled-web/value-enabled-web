@@ -1,3 +1,11 @@
+# ⚠️ Scrap all that, the [value-enabled web](https://dergigi.com/vew) is being built on top of [nostr](https://nostr-resources.com/) as we speak. Zaps are the future. ⚡
+
+[![](https://nostr-resources.com/assets/images/cover.png)](https://nostr-resources.com)
+
+The below is for historical purposes only:
+
+---
+
 # VEW - Value-Enabled Web
 
 There is a revolution happening in cyberspace, which is two parts technological breakthrough and one part digital economics.
